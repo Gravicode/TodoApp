@@ -60,7 +60,7 @@ namespace TodoApp.Helpers
         {
             var uri = new Uri(Prefix);
             var Json = JsonConvert.SerializeObject(item);
-            var ItemContent = new StringContent(Json);
+            var ItemContent = new StringContent(Json,Encoding.UTF8,"application/json");
             var res = await client.PostAsync(uri, ItemContent);
             if (res.IsSuccessStatusCode)
             {
@@ -73,7 +73,7 @@ namespace TodoApp.Helpers
         {
             var uri = new Uri(Prefix + $"/{PK}");
             var Json = JsonConvert.SerializeObject(item);
-            var ItemContent = new StringContent(Json);
+            var ItemContent = new StringContent(Json,Encoding.UTF8, "application/json");
             var res = await client.PutAsync(uri,ItemContent);
             if (res.IsSuccessStatusCode)
             {

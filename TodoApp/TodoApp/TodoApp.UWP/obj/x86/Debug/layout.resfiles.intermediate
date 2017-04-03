@@ -1,3 +1,4 @@
+WinMetadata\Windows.winmd
 Assets\LockScreenLogo.scale-100.png
 Assets\LockScreenLogo.scale-125.png
 Assets\LockScreenLogo.scale-150.png
@@ -31,4 +32,3 @@ Assets\Wide310x150Logo.scale-200.png
 Assets\Wide310x150Logo.scale-400.png
 TodoApp.UWP.xr.xml
 Properties\Default.rd.xml
-WinMetadata\Windows.winmd

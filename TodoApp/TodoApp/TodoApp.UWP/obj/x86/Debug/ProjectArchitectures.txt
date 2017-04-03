@@ -1,2 +1,2 @@
-C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\TodoApp.UWP.csproj;x86
-C:\Lesson\TodoApp\TodoApp\TodoApp\TodoApp.csproj;neutral
+C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\TodoApp.UWP.csproj;x86
+C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\TodoApp.csproj;neutral

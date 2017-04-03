@@ -2,9 +2,9 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Lesson\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Lesson\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Lesson\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\assets</ResolvedAssetDirectory>
@@ -13,8 +13,8 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Lesson\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Lesson\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Lesson\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

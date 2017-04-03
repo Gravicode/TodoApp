@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>f537845f-b6d4-49ad-a7c3-24cbb0f0f0cd</PackageIdentityName>
     <PackageIdentityPublisher>CN=mifma</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-03T07:35:39.525</Modified>
+      <Modified>2017-04-03T09:08:03.601</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\TodoApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\TodoApp.UWP.exe">
       <PackagePath>entrypoint\TodoApp.UWP.exe</PackagePath>
-      <Modified>2017-04-03T07:35:38.118</Modified>
+      <Modified>2017-04-03T09:08:01.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mifma\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -472,173 +472,173 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2017-01-31T04:27:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp\bin\Debug\TodoApp.dll">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\bin\Debug\TodoApp.dll">
       <PackagePath>TodoApp.dll</PackagePath>
-      <Modified>2017-04-03T07:23:10.565</Modified>
+      <Modified>2017-04-03T09:07:58.821</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp\bin\Debug\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
       <Modified>2017-04-02T10:46:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp\bin\Debug\TodoApp.dll.config">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\bin\Debug\TodoApp.dll.config">
       <PackagePath>TodoApp.dll.config</PackagePath>
-      <Modified>2017-04-03T07:18:56.172</Modified>
+      <Modified>2017-04-03T09:07:57.737</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-04-03T06:00:18.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
       <Modified>2017-04-03T06:00:17.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
       <Modified>2017-04-03T06:00:17.732</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
       <Modified>2017-04-03T06:00:17.769</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-04-03T06:00:17.778</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
       <Modified>2017-04-03T06:00:17.795</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.826</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.832</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.849</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.854</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.878</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.893</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.914</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.928</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.941</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.944</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.947</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.955</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.960</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.949</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.963</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.967</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.974</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:17.986</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:18.016</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-04-03T06:00:18.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\TodoApp.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\TodoApp.UWP.xr.xml">
       <PackagePath>TodoApp.UWP.xr.xml</PackagePath>
       <Modified>2017-04-03T06:27:07.836</Modified>
     </AppxPackagedFile>
@@ -654,14 +654,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
       <Modified>2017-01-31T04:27:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-03T07:35:39.034</Modified>
+      <Modified>2017-04-03T09:08:03.252</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\Core\TodoApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp.UWP\bin\x86\Debug\Core\TodoApp.UWP.exe">
       <PackagePath>TodoApp.UWP.exe</PackagePath>
-      <Modified>2017-04-03T07:35:39.508</Modified>
+      <Modified>2017-04-03T09:08:03.596</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

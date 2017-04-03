@@ -16107,16 +16107,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Lesson\\TodoApp\\TodoApp\\TodoApp.UWP\\TodoApp.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\mifma\\Documents\\GitHub\\TodoApp\\TodoApp\\TodoApp\\TodoApp.UWP\\TodoApp.UWP.csproj",
       "projectName": "TodoApp.UWP",
-      "projectPath": "C:\\Lesson\\TodoApp\\TodoApp\\TodoApp.UWP\\TodoApp.UWP.csproj",
-      "projectJsonPath": "C:\\Lesson\\TodoApp\\TodoApp\\TodoApp.UWP\\project.json",
+      "projectPath": "C:\\Users\\mifma\\Documents\\GitHub\\TodoApp\\TodoApp\\TodoApp\\TodoApp.UWP\\TodoApp.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\mifma\\Documents\\GitHub\\TodoApp\\TodoApp\\TodoApp\\TodoApp.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Lesson\\TodoApp\\TodoApp\\TodoApp\\TodoApp.csproj": {
-              "projectPath": "C:\\Lesson\\TodoApp\\TodoApp\\TodoApp\\TodoApp.csproj"
+            "C:\\Users\\mifma\\Documents\\GitHub\\TodoApp\\TodoApp\\TodoApp\\TodoApp\\TodoApp.csproj": {
+              "projectPath": "C:\\Users\\mifma\\Documents\\GitHub\\TodoApp\\TodoApp\\TodoApp\\TodoApp\\TodoApp.csproj"
             }
           }
         }

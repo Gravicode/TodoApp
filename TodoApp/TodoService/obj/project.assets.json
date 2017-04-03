@@ -11225,10 +11225,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lesson\\TodoApp\\TodoService\\TodoService.csproj",
+      "projectUniqueName": "C:\\Users\\mifma\\Documents\\GitHub\\TodoApp\\TodoApp\\TodoService\\TodoService.csproj",
       "projectName": "TodoService",
-      "projectPath": "C:\\Lesson\\TodoApp\\TodoService\\TodoService.csproj",
-      "outputPath": "C:\\Lesson\\TodoApp\\TodoService\\obj\\",
+      "projectPath": "C:\\Users\\mifma\\Documents\\GitHub\\TodoApp\\TodoApp\\TodoService\\TodoService.csproj",
+      "outputPath": "C:\\Users\\mifma\\Documents\\GitHub\\TodoApp\\TodoApp\\TodoService\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
