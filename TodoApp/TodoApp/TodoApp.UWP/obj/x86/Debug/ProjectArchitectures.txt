@@ -1,0 +1,2 @@
+C:\Lesson\TodoApp\TodoApp\TodoApp.UWP\TodoApp.UWP.csproj;x86
+C:\Lesson\TodoApp\TodoApp\TodoApp\TodoApp.csproj;neutral

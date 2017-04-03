@@ -1,0 +1,11 @@
+C:\Lesson\TodoApp\TodoService\bin\Release\netcoreapp1.1\x86\e_sqlite3.dll
+C:\Lesson\TodoApp\TodoService\bin\Release\netcoreapp1.1\x64\e_sqlite3.dll
+C:\Lesson\TodoApp\TodoService\bin\Release\netcoreapp1.1\TodoService.deps.json
+C:\Lesson\TodoApp\TodoService\bin\Release\netcoreapp1.1\TodoService.runtimeconfig.json
+C:\Lesson\TodoApp\TodoService\bin\Release\netcoreapp1.1\TodoService.runtimeconfig.dev.json
+C:\Lesson\TodoApp\TodoService\bin\Release\netcoreapp1.1\TodoService.dll
+C:\Lesson\TodoApp\TodoService\bin\Release\netcoreapp1.1\TodoService.pdb
+C:\Lesson\TodoApp\TodoService\obj\Release\netcoreapp1.1\TodoService.csprojResolveAssemblyReference.cache
+C:\Lesson\TodoApp\TodoService\obj\Release\netcoreapp1.1\TodoService.AssemblyInfo.cs
+C:\Lesson\TodoApp\TodoService\obj\Release\netcoreapp1.1\TodoService.dll
+C:\Lesson\TodoApp\TodoService\obj\Release\netcoreapp1.1\TodoService.pdb

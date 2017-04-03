@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoApp.Views.TodoEditPage"
+             Title="TodoEditPage">
+  <ScrollView>
+    <StackLayout Padding="10">
+            <Label Text="Title" />
+            <Entry Text="{Binding Title}">
+
+            </Entry>
+            <Label Text="Description"/>
+            <Entry Text="{Binding Description}"></Entry>
+            <Button Text="Save Item" Clicked="Save_Clicked" />
+        </StackLayout>
+  </ScrollView>
+</ContentPage>
