@@ -57,3 +57,5 @@ C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\obj\Debug\TodoAp
 C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\obj\Debug\TodoApp.Views.TodoEditPage.xaml.g.cs
 C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\obj\Debug\TodoApp.dll
 C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\obj\Debug\TodoApp.pdb
+C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\obj\Debug\TodoApp.dll.mdb
+C:\Users\mifma\Documents\GitHub\TodoApp\TodoApp\TodoApp\TodoApp\bin\Debug\TodoApp.dll.mdb
